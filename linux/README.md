@@ -50,7 +50,8 @@ cat file1 file2
 
 ### Screenshot
 
-![cat and cat -b](screenshots/01-cat-and-cat-b.png)
+<img width="1059" height="328" alt="Screenshot from 2026-09-15 16-50-47" src="https://github.com/user-attachments/assets/3bce43eb-6634-4837-a5d6-1240a8a99c8f" />
+
 
 ---
 
@@ -88,7 +89,8 @@ grep -r "file3" .
 
 ### Screenshot
 
-![grep](screenshots/02-grep.png)
+<img width="979" height="94" alt="Screenshot from 2026-09-15 16-51-07" src="https://github.com/user-attachments/assets/4c95a27d-3f02-49fd-8482-16b8997cd975" />
+
 
 ---
 
@@ -125,7 +127,8 @@ sort -f test
 
 ### Screenshot
 
-![sort](screenshots/03-sort.png)
+<img width="1058" height="448" alt="Screenshot from 2026-09-15 17-03-09" src="https://github.com/user-attachments/assets/b539eb3c-baa2-4f61-ac05-cefab621504d" />
+
 
 ---
 
@@ -173,7 +176,8 @@ instead.
 
 ### Screenshot
 
-![tail](screenshots/04-tail.png)
+<img width="1058" height="227" alt="Screenshot from 2026-09-15 17-16-01" src="https://github.com/user-attachments/assets/983ecfe9-6e66-4487-9d22-ef3111db6711" />
+
 
 ---
 
@@ -230,7 +234,8 @@ Understanding permissions is essential when working with:
 
 ### Screenshot
 
-![chmod](screenshots/05-chmod.png)
+<img width="1058" height="227" alt="Screenshot from 2026-09-15 17-22-00" src="https://github.com/user-attachments/assets/1a5b486b-4b18-4473-b2d2-2cd500f22729" />
+
 
 ---
 
@@ -278,7 +283,8 @@ sudo chown -R user:group directory/
 
 ### Screenshot
 
-![chown](screenshots/06-chown.png)
+<img width="1047" height="172" alt="Screenshot from 2026-09-15 17-25-28" src="https://github.com/user-attachments/assets/8bb35999-cb3b-4dc5-a166-fc1cc21661c2" />
+
 
 ---
 
@@ -316,7 +322,8 @@ groups=1001(virenlahamage),27(sudo),998(docker)
 
 ### Screenshot
 
-![id](screenshots/07-id.png)
+<img width="920" height="101" alt="Screenshot from 2026-09-15 18-03-33" src="https://github.com/user-attachments/assets/84abb1e0-dcff-4d22-9ce2-ce0d2cd8b9c2" />
+
 
 ---
 
@@ -346,6 +353,7 @@ To modify the original file directly:
 sed -i 's/PA100/VA100/' test
 ```
 
+
 ### Breakdown
 
 ```text
@@ -370,7 +378,6 @@ VA10001,Test Customer 01,...
 
 ### Screenshot
 
-![tail and sed](screenshots/08-tail-and-sed.png)
 
 ---
 
@@ -413,7 +420,8 @@ Symbols commonly seen:
 
 ### Screenshot
 
-![diff](screenshots/09-diff.png)
+<img width="1041" height="535" alt="Screenshot from 2026-09-15 18-33-47" src="https://github.com/user-attachments/assets/e09a1590-b3e5-45e7-a357-9b7b43692122" />
+
 
 ---
 
@@ -460,7 +468,8 @@ History is useful for reviewing troubleshooting steps and reproducing commands.
 
 ### Screenshot
 
-![history](screenshots/10-history.png)
+<img width="1041" height="225" alt="Screenshot from 2026-09-15 18-34-31" src="https://github.com/user-attachments/assets/ed106751-3d54-4b02-a787-baec5de500d3" />
+
 
 ---
 
@@ -503,7 +512,8 @@ Useful when diagnosing:
 
 ### Screenshot
 
-![free](screenshots/11-free.png)
+<img width="1041" height="121" alt="Screenshot from 2026-09-15 18-39-07" src="https://github.com/user-attachments/assets/a06dfaf5-0767-417b-b86c-d276712797a9" />
+
 
 ---
 
@@ -550,7 +560,8 @@ DNS troubleshooting is important for:
 
 ### Screenshot
 
-![nslookup](screenshots/12-nslookup.png)
+<img width="1055" height="418" alt="Screenshot from 2026-09-15 18-39-39" src="https://github.com/user-attachments/assets/d77851e7-743a-4052-bc0c-c1cab10ee442" />
+
 
 ---
 
@@ -612,7 +623,8 @@ These commands are essential for diagnosing:
 
 ### Screenshot
 
-![df and du](screenshots/13-df-and-du.png)
+<img width="1007" height="270" alt="Screenshot from 2026-09-15 18-41-04" src="https://github.com/user-attachments/assets/865089e4-d2bd-4a07-a8be-0f6a4271df84" />
+
 
 ---
 
@@ -653,7 +665,8 @@ top
 
 ### Screenshot
 
-![top](screenshots/14-top.png)
+<img width="1139" height="506" alt="Screenshot from 2026-09-15 18-42-01" src="https://github.com/user-attachments/assets/5d1304c0-8972-4d97-8497-4eff521f1b8a" />
+
 
 ---
 
@@ -706,7 +719,8 @@ ps aux  → one-time process snapshot
 
 ### Screenshot
 
-![ps aux](screenshots/15-ps-aux.png)
+<img width="1139" height="506" alt="Screenshot from 2026-09-15 18-42-48" src="https://github.com/user-attachments/assets/c781fdc1-5a5e-440e-a78d-85a8e7a21538" />
+
 
 ---
 
@@ -766,7 +780,8 @@ because applications may need the opportunity to clean up files, connections, or
 
 ### Screenshot
 
-![kill](screenshots/16-kill.png)
+<img width="1139" height="132" alt="Screenshot from 2026-09-15 18-43-53" src="https://github.com/user-attachments/assets/b05da54a-69d7-47a8-8f2b-87155524d7ba" />
+
 
 ---
 
