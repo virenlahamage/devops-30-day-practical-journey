@@ -782,8 +782,17 @@ because applications may need the opportunity to clean up files, connections, or
 
 <img width="1139" height="132" alt="Screenshot from 2026-09-15 18-43-53" src="https://github.com/user-attachments/assets/b05da54a-69d7-47a8-8f2b-87155524d7ba" />
 
+## 17. Linux `ss -tulnp` Command
 
+## 11. `ss -tulnp` — View Listening Ports and Network Sockets
+
+### Command
+
+```bash
+ss -tulnp
 ---
+<img width="1247" height="495" alt="image" src="https://github.com/user-attachments/assets/9cb70b50-0a65-44e6-9527-c4bc1653b35a" />
+
 
 # Quick Command Reference
 
